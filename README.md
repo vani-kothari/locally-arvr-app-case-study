@@ -24,7 +24,7 @@ MENTOR: NEELA SANTOSH
 ## 📱 Screenshot
 
 <div align="center">
-  <img src="[images/mockups/locally.png](https://github.com/vani-kothari/locally-arvr-app-case-study/blob/main/locally.png)" alt="AR/VR design" width="200"/>
+  <img src="locally.png" alt="AR/VR design" width="800"/>
 </div>
 
 ## About
